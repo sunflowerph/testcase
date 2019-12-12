@@ -9,6 +9,7 @@ from selenium.webdriver.common.keys import Keys
 import datetime
 
 
+#添加一段注释
 driver=webdriver.Chrome(executable_path='/Users/ph/Documents/chromedriver')
 driver.get('http://118.25.66.69:8080/supermarket/login') #预发环境
 #driver.get('http://saas.zhuisuyun.net/supermarket/login')  #线上
