@@ -8,11 +8,7 @@ from selenium.webdriver.support.select import Select
 from selenium.webdriver.common.keys import Keys
 import datetime
 
-<<<<<<< HEAD
 #分支代码
-=======
-#fenzhi
->>>>>>> fenzhi
 
 driver=webdriver.Chrome(executable_path='/Users/ph/Documents/chromedriver')
 driver.get('http://118.25.66.69:8080/supermarket/login') #预发环境

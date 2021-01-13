@@ -1,5 +1,5 @@
 #coding=utf-8
-#主干
+#qitade
 #超市管理系统
 
 import unittest
